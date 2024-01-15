@@ -11,3 +11,24 @@
   authors: RHYS E. A. GOODALL,ABHIJITH S. PARACKAL, FELIX A. FABER, RICKARD ARMIENTO, AND ALPHA A. LEE 
   summary: .
   code_link: .
+
+- title: Crystal Diffusion Variational Autoencoder for Periodic Material Generation
+  url: https://arxiv.org/abs/2110.06197
+  date: 2021-10-12 
+  authors: Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola
+  summary: .
+  code_link: https://github.com/txie-93/cdvae
+
+- title: Data-driven discovery of 2D materials by deep generative models
+  url: https://www.nature.com/articles/s41524-022-00923-3
+  date: 2022-11-11 
+  authors: Peder Lyngby, Kristian Sommer Thygesen 
+  summary: .
+  code_link: .
+
+- title: Diffusion probabilistic models enhance variational autoencoder for crystal structure generative modeling
+  url: https://www.nature.com/articles/s41524-022-00923-3
+  date: 2023-08-04 
+  authors: Teerachote Pakornchote, Natthaphon Choomphon-anomakhun, Sorrjit Arrerut, Chayanon Atthapak, Sakarn Khamkaeo, Thiparat Chotibut, Thiti Bovornratanaraks 
+  summary: .
+  code_link: https://github.com/trachote/dp-cdvae
