@@ -1,4 +1,4 @@
-- title: 'An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning'
+- title: "An invertible, invariant crystal representation for inverse design of solid-state materials using generative deep learning"
   url: https://www.nature.com/articles/s41467-023-42870-7
   date: 2023-11-02
   authors: Hang Xiao, Rong Li, Xiaoyang Shi, Yan Chen, Liangliang Zhu, Xi Chen , Lei Wang
@@ -8,27 +8,70 @@
 - title: Rapid discovery of stable materials by coordinate-free coarse graining
   url: https://www.science.org/doi/10.1126/sciadv.abn4117
   date: 2022-07-27
-  authors: RHYS E. A. GOODALL,ABHIJITH S. PARACKAL, FELIX A. FABER, RICKARD ARMIENTO, AND ALPHA A. LEE 
+  authors: RHYS E. A. GOODALL,ABHIJITH S. PARACKAL, FELIX A. FABER, RICKARD ARMIENTO, AND ALPHA A. LEE
   summary: .
   code_link: .
 
 - title: Crystal Diffusion Variational Autoencoder for Periodic Material Generation
   url: https://arxiv.org/abs/2110.06197
-  date: 2021-10-12 
+  date: 2021-10-12
   authors: Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola
   summary: .
   code_link: https://github.com/txie-93/cdvae
 
 - title: Data-driven discovery of 2D materials by deep generative models
   url: https://www.nature.com/articles/s41524-022-00923-3
-  date: 2022-11-11 
-  authors: Peder Lyngby, Kristian Sommer Thygesen 
+  date: 2022-11-11
+  authors: Peder Lyngby, Kristian Sommer Thygesen
   summary: .
   code_link: .
 
 - title: Diffusion probabilistic models enhance variational autoencoder for crystal structure generative modeling
   url: https://www.nature.com/articles/s41524-022-00923-3
-  date: 2023-08-04 
-  authors: Teerachote Pakornchote, Natthaphon Choomphon-anomakhun, Sorrjit Arrerut, Chayanon Atthapak, Sakarn Khamkaeo, Thiparat Chotibut, Thiti Bovornratanaraks 
+  date: 2023-08-04
+  authors: Teerachote Pakornchote, Natthaphon Choomphon-anomakhun, Sorrjit Arrerut, Chayanon Atthapak, Sakarn Khamkaeo, Thiparat Chotibut, Thiti Bovornratanaraks
   summary: .
   code_link: https://github.com/trachote/dp-cdvae
+
+- title: Scalable Diffusion for Materials Generation
+  url: https://www.nature.com/articles/s41524-022-00923-3
+  date: 2023-10-18
+  authors: Mengjiao Yang, KwangHwan Cho, Amil Merchant, Pieter Abbeel, Dale Schuurmans, Igor Mordatch, Ekin Dogus Cubuk
+  summary: .
+  code_link: https://unified-materials.github.io/unimat/
+
+- title: Inverse Design of Solid-State Materials via a Continuous Representation
+  url: https://www.nature.com/articles/s41524-022-00923-3
+  date: 2016-11-06
+  authors: Juhwan Noh , Jaehoon Kim , Helge S. Stein, Benjamin Sanchez-Lengeling, John M. Gregoire, Alan Aspuru-Guzik, Yousung Jung
+  summary: .
+  code_link: https://github.com/kaist-amsg/imatgen.git
+
+- title: Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files
+  url: https://arxiv.org/abs/2305.05708
+  date: 2023-05-09
+  authors: Daniel Flam-Shepherd, Alán Aspuru-Guzik
+  summary: .
+  code_link: https://github.com/danielflamshep/xyztransformer
+
+- title: Data-Driven Approach to Encoding and Decoding 3-D Crystal Structures
+  url: https://arxiv.org/abs/2305.05708
+  date: 2019-03-09
+  authors: Jordan Hoffmann, Louis Maestrati, Yoshihide Sawada, Jian Tang, Jean Michel Sellier, Yoshua Bengio
+  summary: .
+  code_link: https://github.com/hoffmannjordan/Encoding-Decoding-3D-Crystals
+
+- title: 3-D Inorganic Crystal Structure Generation and Property Prediction via Representation Learning
+  url: https://pubs.acs.org/doi/10.1021/acs.jcim.0c00464
+  date: 2020-08-31
+  authors: Callum J. Court, Batuhan Yildirim, Apoorv Jain, and Jacqueline M. Cole
+  summary: .
+  code_link: https://github.com/by256/icsg3d
+
+
+- title: Constrained crystals deep convolutional generative adversarial network for the inverse design of crystal structures
+  url: https://www.nature.com/articles/s41524-021-00526-4
+  date: 2021-05-10
+  authors: Teng Long, Nuno M. Fortunato, Ingo Opahle, Yixuan Zhang, Ilias Samathrakis, Chen Shen, Oliver Gutfleisch & Hongbin Zhang
+  summary: .
+  code_link: .
