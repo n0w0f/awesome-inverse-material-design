@@ -6,7 +6,7 @@ with open('publications.yaml', 'r') as file:
 
 # Prepare README
 
-readme = "# awesome-inverse-material-design\n\n"
+readme = "# awesome-inverse-material-design   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)\n\n"
 readme += "Comprehensive collection of  literature, resources and tools showcasing the implementation of inverse design of material\n\n"
 readme += "## 📝 Publications <small>({})</small>\n\n".format(len(publications))
 
